@@ -48,13 +48,13 @@ Alguns termos que aparecem em múltiplos capítulos ou até mesmo todos.
 | C. Round | C. Redondo | ✅ | — |
 | Bloxer | Bloxeador | ✅ | — |
 | Clover | Trêva | ✅ | — |
-| Rudinn | Rudino | ✅ | — |
-| Rudinn Ranger | Rudino Rondador | ✅ | — |
-| Ponman | — | ⏳ | — |
+| Rudinn | Rudiano | ✅ | — |
+| Rudinn Ranger | Rudiano Rondador | ✅ | — |
+| Ponman | Homem-Peão | ✅ | — |
 | Rabbick | Sujoelho | ✅ | — |
-| Head Hathys | — | ⏳ | — |
+| Head Hathys | Copação Chefe | ✅ | — |
 | Hathy | Copação | ✅ | — |
-| Jigwary | — | ⏳ | — |
+| Jigsawry | Quebra-Culpa | ✅ | — |
 | Jigsaw Joe | — | ⏳ | — |
 
 ### Bosses
@@ -63,7 +63,6 @@ Alguns termos que aparecem em múltiplos capítulos ou até mesmo todos.
 |---|---|---|---|
 | King | Rei | ✅ | — |
 | Roaring Knight | Cavaleiro Rugente | ✅ | — |
-| Jevil | — | Não é necessária tradução. |
 
 ### NPCs
 
@@ -94,6 +93,7 @@ Alguns termos que aparecem em múltiplos capítulos ou até mesmo todos.
 |---|---|---|---|
 | WoodBlade | Lâmina de Madeira | ✅ | — |
 | Jevilstail | Cauda do Jevil | ✅ | — |
+| Devilsknife | Faca Diabólica | ✅ | — |
 
 ---
 
@@ -103,20 +103,29 @@ Alguns termos que aparecem em múltiplos capítulos ou até mesmo todos.
 
 | Original | Tradução | Status | Nota |
 |---|---|---|---|
-| — | — | — | — |
+| Werewire | Cabozomem | ✅ | — |
+| Werewerewire | Cabozomemzomem | ✅ | — |
+| Swatchling | Corviçal | ✅ | — |
+| Virovirokun | Viruvirukun | ✅ | — |
+| Maus | Mause | ✅ | — |
+| Ambyu-Lance | Ambuiu-Lância | ✅ | — |
+| Tasque | Tafera | ✅ | — |
+| Tasque Manager | Gerenciadora de Taferas | ✅ | — |
+| Mauswheel | Roda-Mause | ✅ | — |
+
+
 
 ### Bosses
 
 | Original | Tradução | Status | Nota |
 |---|---|---|---|
 | Queen | Rainha | ✅ | — |
-| Spamton | — | — | Tradução não necessária. |
 
 ### NPCs
 
 | Original | Tradução | Status | Nota |
 |---|---|---|---|
-| — | — | — | — |
+| Addison | Anune | ✅ | — |
 
 ### Itens
 
@@ -150,7 +159,13 @@ Alguns termos que aparecem em múltiplos capítulos ou até mesmo todos.
 
 | Original | Tradução | Status | Nota |
 |---|---|---|---|
-| — | — | — | — |
+| Zapper | Zapeador | ✅ | — |
+| Shadowguy | Homem-Sombra | ✅ | — |
+| Shuttah | Obituradô | ✅ | — |
+| Ribbick | Sujapo | ✅ | — |
+| Pippin | Pontito | ✅ | — |
+| Cooler | Bebedouro | ✅ | — |
+| Shuttah | Obituradô | ✅ | — |
 
 ### Bosses
 
@@ -197,7 +212,15 @@ Alguns termos que aparecem em múltiplos capítulos ou até mesmo todos.
 
 | Original | Tradução | Status | Nota |
 |---|---|---|---|
-| — | — | — | — |
+| Balthizard | Baltazarto | ✅ | — |
+| Mizzle | Chuvita | ✅ | — |
+| Winglade | Laminasa | ✅ | — |
+| (Miss) Mizzle | (Madame) Chuvita | ✅ | — |
+| Organikk | Orgãonikko | ✅ | — |
+| Wicabel | Bruxino | ✅ | — |
+| Bibliox | Biblióx | ✅ | — |
+
+
 
 ### Bosses
 
@@ -215,7 +238,9 @@ Alguns termos que aparecem em múltiplos capítulos ou até mesmo todos.
 
 | Original | Tradução | Status | Nota |
 |---|---|---|---|
-| — | — | — | — |
+| Scarlixir | Escalixir | ✅ | — |
+| Rhapsotea | Chápsódia | ✅ | — |
+| AncientSweet | Guloseima Anciã | ✅ | — |
 
 ### Armaduras
 
